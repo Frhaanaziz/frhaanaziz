@@ -1,12 +1,27 @@
-<h1 align="center">Hi 👋, I'm Farhan</h1>
+<div>
+  <div align=center>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&size=32&duration=2500&pause=500&color=FFFFFF&center=true&vCenter=true&random=false&width=600&lines=I'm+Farhan+Aziz;A+Fullstack+Software+Engineer" alt="Headline" />
+  </div>
+  <br>
+  <div align=center>
+    <a href="https://www.linkedin.com/in/frhaanaziz/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn"/></a>
+    <a href="https://github.com/frhaanaziz">
+      <img src="https://komarev.com/ghpvc/?username=frhaanaziz&label=Profile%20Views&color=0e75b6&style=flat" alt="frhaanaziz"/>
+    </a>
+  </div>
+  <br>
+  <div align=left>
+      <br>
+      <ul>
+          <li>🌱 I’m currently learning **docker**</li>
+          <li>👨‍💻 All of my projects are available at <a href="https://aththariq.com">aththariq.com</a></li>
+          <li>📫 How to reach me <a href="mailto:farhan@aththariq.com">farhan@aththariq.com</a></li>
+          <li>📄 Know about my experiences <a href="https://aththariq.com">aththariq.com</a></li>
+      </ul>
+  </div>
+  <div alighn=left>
+    <h2>Technologies <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=20px></h2>  
+  </div>
+</div>
 
-- 🌱 I’m currently learning **docker**
-
-- 👨‍💻 All of my projects are available at [https://aththariq.com](https://aththariq.com)
-
-- 📫 How to reach me **farhan@aththariq.com**
-
-- 📄 Know about my experiences [https://aththariq.com](https://aththariq.com)
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://styles.redditmedia.com/t5_2rdj2/styles/communityIcon_im8xr08e8hi91.jpg?width=256&format=pjpg&s=a3bf9e4f82de4d919275b9040eaada784bf9839a" alt="cypress" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1255113654049128448/J5Yt92WW_400x400.png" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://nestjs.com/logo-small.ede75a6b.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+  [![My Skills](https://skillicons.dev/icons?i=nextjs,nestjs,react,ts,js,tailwind,prisma,githubactions,sentry,nginx,grafana,git,discord)](https://skillicons.dev)

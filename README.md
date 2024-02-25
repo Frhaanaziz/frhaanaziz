@@ -13,7 +13,7 @@
   <div align=left>
       <br>
       <ul>
-          <li>🌱 I’m currently learning **docker**</li>
+          <li>🌱 I’m currently learning <b>docker</b></li>
           <li>👨‍💻 All of my projects are available at <a href="https://aththariq.com">aththariq.com</a></li>
           <li>📫 How to reach me <a href="mailto:farhan@aththariq.com">farhan@aththariq.com</a></li>
           <li>📄 Know about my experiences <a href="https://aththariq.com">aththariq.com</a></li>

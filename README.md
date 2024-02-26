@@ -20,8 +20,13 @@
       </ul>
   </div>
   <div alighn=left>
-    <h2>Technologies <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=20px></h2>  
+    <h3>Technologies <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=20px></h3>  
   </div>
 </div>
 
-  [![My Skills](https://skillicons.dev/icons?i=nextjs,nestjs,react,ts,js,tailwind,prisma,githubactions,sentry,nginx,grafana,git,discord)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nestjs,tailwind,prisma,nodejs,postman,githubactions,sentry,nginx,grafana,git,discord,vscode,vercel,vite,supabase,planetscale,mysql,postgres,md,cloudflare,cypress)](https://skillicons.dev)
+
+ <h3>📊 Weekly development breakdown</h3>  
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->

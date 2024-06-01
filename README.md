@@ -1,6 +1,6 @@
 <div>
   <div align=center>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&size=32&duration=2500&pause=500&color=FFFFFF&center=true&vCenter=true&random=false&width=600&lines=I'm+Farhan+Aziz;A+Fullstack+Software+Engineer" alt="Headline" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&size=32&duration=2500&pause=500&color=FFFFFF&center=true&vCenter=true&random=false&width=600&lines=I'm+Farhan+Aziz;A+Software+Engineer" alt="Headline" />
   </div>
   <br>
   <div align=center>

@@ -24,7 +24,7 @@
   </div>
 </div>
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,svelte,vue,nextjs,nuxtjs,nodejs,nestjs,tailwind,prisma,postman,githubactions,sentry,nginx,grafana,git,supabase,mysql,cypress)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,svelte,vue,nextjs,nuxtjs,nodejs,nestjs,tailwind,prisma,githubactions,sentry,nginx,git,supabase,mysql,cypress)](https://skillicons.dev)
 
  <h3>📊 Weekly development breakdown</h3>  
 

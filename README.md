@@ -16,7 +16,7 @@
           <li>🌱 I’m currently learning <b>docker</b></li>
           <li>👨‍💻 All of my projects are available at <a href="https://aththariq.com">aththariq.com</a></li>
           <li>📫 How to reach me <a href="mailto:farhan@aththariq.com">farhan@aththariq.com</a></li>
-          <li>📄 Know about my experiences, <a href="https://rxresu.me/frhaanaziz/farhan-aziz-ath-thariq">resume</a></li>
+          <li>📄 Know about my experiences, <a href="https://www.aththariq.com/resume">resume</a></li>
       </ul>
   </div>
   <div alighn=left>

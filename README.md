@@ -31,10 +31,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 32 mins
+Total Time: 0 secs
 
-TypeScript   27 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀   86.06 %
-JSON         4 mins          ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.94 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
